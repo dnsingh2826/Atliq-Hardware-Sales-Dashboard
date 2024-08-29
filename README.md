@@ -1,4 +1,3 @@
-END-TO-END PROJECT
 This dataset contains the information on the sales of a hardware company named 'Atliq Hardware', which currently only operates in India. The dataset contains the data from 2017 to 2020. 
 There are 5 different tables which in data format, represents a star formation. 
 The datset is in form of a .sql file, so we have first uploaded the file onto the MySQL server. 
